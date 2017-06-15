@@ -8,6 +8,6 @@ Libraries used: bson-3.4.1, java-json, mongo-java-driver-3.4.1, mongodb-driver-c
 
 To run: 
 
-	1. First run Purify.java to purify and import data into the database
+	1. First run Purify.java to purify and import data into the database.
 
 	2. Run Prediction.java to get item recommendations. 
